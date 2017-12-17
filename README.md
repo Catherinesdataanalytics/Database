@@ -7,5 +7,6 @@ I collected some MOOC about database management as followed:
   
 * [Introduction to Structured Query Language by University of Michigan&Coursera](https://www.coursera.org/learn/intro-sql/home/welcome) Recommendation Index: ★★★☆☆
   * This lecture use MySQL and PHP, part of a series called 'Web Applications for Everybody'.
+  
 * [Database Design by University of Michigan&Coursera](https://www.coursera.org/learn/intro-sql/home) Recommendation Index: ★★★★☆
   * This lecture tells you everything about database design.The teacher uses real example to tell you how to design a database.
