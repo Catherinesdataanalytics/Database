@@ -9,6 +9,6 @@ I collected some MOOC about database management as followed:
   * This lecture use MySQL and PHP, part of a series called 'Web Applications for Everybody'.
   
 * [Database Design by University of Michigan&Coursera](https://www.coursera.org/learn/intro-sql/home) Recommendation Index: ★★★★☆
-  * This lecture tells you everything about database design.The teacher uses real example to tell you how to design a database.
-[Using Databases with Python Michigan&Coursera](https://www.coursera.org/learn/python-databases/lecture/CGkdb/welcome-to-using-databases-with-python) Recommendation Index: ★★★★☆
+  * This lecture tells you everything about database design.The teacher uses real example to tell you how to design a database.
+* [Using Databases with Python Michigan&Coursera](https://www.coursera.org/learn/python-databases/lecture/CGkdb/welcome-to-using-databases-with-python) Recommendation Index: ★★★★☆
  
